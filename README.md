@@ -1,7 +1,7 @@
 # Predicción de Riesgo de Incumplimiento crediticio
 
 
-El objetivo de este proyecto fue **desarrollar un modelo de predicción de riesgo de incumplimiento crediticio** para clientes PYME, con un horizonte de 12 meses posteriores a la aprobación del crédito.  
+El objetivo de este proyecto fue **desarrollar un modelo de predicción de riesgo de incumplimiento crediticio**, con un horizonte de 12 meses posteriores a la aprobación del crédito.  
 
 Los resultados iniciales muestran que el modelo puede **identificar correctamente 8 de cada 10 clientes que incumplen**, lo que representa un avance significativo hacia una gestión de riesgo más eficiente.
 
