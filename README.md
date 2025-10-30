@@ -1,4 +1,4 @@
-# Predicción de Riesgo de Incumplimiento en Clientes PYME
+# Predicción de Riesgo de Incumplimiento crediticio
 
 
 El objetivo de este proyecto fue **desarrollar un modelo de predicción de riesgo de incumplimiento crediticio** para clientes PYME, con un horizonte de 12 meses posteriores a la aprobación del crédito.  
